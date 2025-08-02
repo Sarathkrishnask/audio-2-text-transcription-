@@ -17,14 +17,6 @@ This project processes long audio files (e.g., `.mp3`) into clean, speaker-separ
 
 ---
 
-### 🧪 Try it in Google Colab (One-click launch)
-
-- ▶️ **[Main Pipeline: Full audio to speaker transcript](https://colab.research.google.com/drive/1-LiE4CSCVA6RGOcVqkMK_TL9SvkyG7gW#scrollTo=yuXIr36FcOEW)**  
-- 🔁 **[Alternate Transcriber pipeline](https://colab.research.google.com/drive/1u5aL_21tkqKm-WoUnu9ZblQ0EWFfQdtq)**  
-- 🧾 **[Zoom Meeting Speaker Transcriber](https://colab.research.google.com/drive/1zEHYisMz_PK-gevJGtifmYD_StMe3iRT)**  
-
----
-
 ### 🧰 Libraries & Tools Used
 
 - [`whisper`](https://github.com/openai/whisper) (OpenAI transcription)
